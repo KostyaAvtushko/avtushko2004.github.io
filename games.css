@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Press Start 2P', cursive;
+    background-color:black;
+    overflow: hidden;
+}
+.games-text{
+    text-align: center;
+    color:white;
+}
+.link-home{
+    color:white;
+    text-decoration: none;
+}

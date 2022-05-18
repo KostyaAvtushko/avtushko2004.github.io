@@ -1,0 +1,29 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    background-color:black;
+}
+.h1-main{
+    color:white;
+    text-align: center;
+}
+.smth-about-code{
+    color:white;
+}
+.smth-about-code-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.langs-icons{
+    display: flex;
+    justify-content: space-around;
+}
+.page-footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.link-main{
+    text-decoration: none;
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+}
+.page-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+.main-my-name{
+    color: white;
+}
+.nav-my-hobbies{
+    margin-top: 15%;
+}
+.nav-my-hobbies-menu{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-my-hobbies-link{
+    color:white;
+    text-decoration: none;
+    font-size: 1.7em;
+}
+.page-footer{
+    margin-top: 15%;
+    display: flex;
+    justify-content: space-around;
+}

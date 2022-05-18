@@ -1,0 +1,15 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    background-color:black;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 100%;
+}
+.coming{
+    color:white;
+    text-decoration: none;
+}
